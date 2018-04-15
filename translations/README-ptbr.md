@@ -484,9 +484,9 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
             você irá se tornar proficiente rapidamente. Entender C te ajuda a entender como os programas e a memória funcionam.
         - [answers to questions](https://github.com/lekkas/c-algorithms) (respostas para as questões) 
 
-- [ ] **Como computadores processam um programa:**
+- [X] **Como computadores processam um programa:**
     - [X] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
+    - [X] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
 
 ## Complexidade Algorítmica / Big-O / Análise assintótica
 - nada para implementar
