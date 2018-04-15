@@ -485,7 +485,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - [answers to questions](https://github.com/lekkas/c-algorithms) (respostas para as questões) 
 
 - [ ] **Como computadores processam um programa:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
+    - [X] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
 
 ## Complexidade Algorítmica / Big-O / Análise assintótica
