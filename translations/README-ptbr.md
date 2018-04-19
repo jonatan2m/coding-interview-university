@@ -487,6 +487,9 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 - [X] **Como computadores processam um programa:**
     - [X] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
     - [X] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
+    - [X] [Comparing C to machine language](https://www.youtube.com/watch?time_continue=6&v=yOyaJXpAYZQ) (Código C compilado para linguagem de máquina)
+
+
 
 ## Complexidade Algorítmica / Big-O / Análise assintótica
 - nada para implementar
