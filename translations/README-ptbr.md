@@ -499,7 +499,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 - [X] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
-- [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/) (Uma Introdução Gentil a Análise de Complexidade Algoritmica)
+- [X] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/) (Uma Introdução Gentil a Análise de Complexidade Algoritmica)
 - [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59) (Ordens de Crescimento - vídeo)
 - [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61) (Assintóticas - vídeo)
 - [ ] [UC Berkeley Big O (video)](https://youtu.be/VIS4YDpuP98) (Big-O - Universidade da Califórnia em Berkeley - vídeo)
