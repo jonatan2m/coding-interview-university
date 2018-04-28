@@ -502,8 +502,8 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 - [X] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/) (Uma Introdução Gentil a Análise de Complexidade Algoritmica)
 - [ ] (Precisa fazer o curso) [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59) (Ordens de Crescimento - vídeo)
 - [ ] (Precisa fazer o curso) [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61) (Assintóticas - vídeo)
-- [ ] [UC Berkeley Big O (video)](https://youtu.be/VIS4YDpuP98) (Big-O - Universidade da Califórnia em Berkeley - vídeo)
-- [ ] [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc) (Grande Omega - Universidade da Califórnia em Berkeley - vídeo)
+- [ ] (Precisa fazer o curso) [UC Berkeley Big O (video)](https://youtu.be/VIS4YDpuP98) (Big-O - Universidade da Califórnia em Berkeley - vídeo)
+- [ ] (Precisa fazer o curso) [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc) (Grande Omega - Universidade da Califórnia em Berkeley - vídeo)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN) (Análise Amortizada - vídeo)
 - [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63) (Ilustrando "Big-O" - vídeo)
 - [ ] TopCoder (inclui relações de recorrência e teorema mestre):
