@@ -514,6 +514,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 - [X] [Análise de Algoritmos - Árvore de Recursão e Método Mestre](https://www.youtube.com/watch?v=lUGMlzOLKzs)
 - [X] [Divisão e conquista - Equações de recorrência](https://www.youtube.com/watch?v=eTYN65ap_cU)
 - [X] [Solução de recorrências (Parte I)](https://www.youtube.com/watch?v=sb6Sy3hJphc)
+- [X] [Solução de recorrências (Parte II)](https://www.youtube.com/watch?v=34fb0LBpUkQ&t)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN) (Análise Amortizada - vídeo)
 - [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63) (Ilustrando "Big-O" - vídeo)
 - [ ] TopCoder (inclui relações de recorrência e teorema mestre):
