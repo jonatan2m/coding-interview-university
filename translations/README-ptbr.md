@@ -908,6 +908,10 @@ Você ganhará mais prática com grafos no livro do Skiena (veja a seção de li
 
 ## Ainda Mais Conhecimento
 
+- ### Conhecimentos interessantes de Ciência da Computação
+    - [ ] [Application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface)
+    - [ ] [IL and arguments](https://stackoverflow.com/questions/16400547/il-and-arguments/16403570#16403570)
+
 - ### Recursão
     - [ ] Aulas de Stanford sobre recursão e backtracking:
         - [ ] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8) (Aula 8 | Abstrações de Programação - vídeo)
