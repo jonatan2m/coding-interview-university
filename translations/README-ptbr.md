@@ -489,6 +489,9 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [X] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
     - [X] [Comparing C to machine language](https://www.youtube.com/watch?time_continue=6&v=yOyaJXpAYZQ) (Código C compilado para linguagem de máquina)
 
+- [ ] **Matemática Discreta**
+    - [ ] [Indução Matemática - Playlist](https://www.youtube.com/watch?v=bhfhmre-QxU&list=PLrVGp617x0hAb3bokPETMb7ymiVW_FtuM&index=1)
+
 
 
 ## Complexidade Algorítmica / Big-O / Análise assintótica
