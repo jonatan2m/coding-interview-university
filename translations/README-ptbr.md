@@ -491,6 +491,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 
 - [ ] **Matemática Discreta**
     - [ ] [Indução Matemática - Playlist](https://www.youtube.com/watch?v=bhfhmre-QxU&list=PLrVGp617x0hAb3bokPETMb7ymiVW_FtuM&index=1)
+    - [ ] [Repositório da ufmg](http://homepages.dcc.ufmg.br/~loureiro/md.html)
 
 
 
