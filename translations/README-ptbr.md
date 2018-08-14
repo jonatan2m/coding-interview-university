@@ -534,53 +534,53 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 
 - ### Arrays
     - Implementar um vetor de redimensionamento automático.
-    - [ ] Descrição:
-        - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-        - [UCBerkley CS61B - Linear and Multi-Dim Arrays (video)](https://youtu.be/Wp8oiO_CZZE?t=15m32s) (Arrays lineares e multidimensionais - vídeo)
-        - [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html) (Arrays básicos - vídeo)
-        - [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html) (Multidimensionais - vídeo)
-        - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays) (Arrays Dinâmicos - vídeo)
-        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g) (Arrays Multidimensionais - vídeo)
-        - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html) (Arrays Multidimensionais - vídeo)
-        - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html) (Arrays Dinâmicos)
-    - [ ] Implementar um vetor (array mutável com redimensionamento automático):
-        - [ ] Praticar programação usando arrays e ponteiros, e matemática de ponteiros para pular para um índice ao invés de usar indexação.
-        - [ ] novo array de dados brutos com memória alocada
+    - [x] Descrição:
+        - [CURSO PAGO Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+        - [FORA DO AR UCBerkley CS61B - Linear and Multi-Dim Arrays (video)](https://youtu.be/Wp8oiO_CZZE?t=15m32s) (Arrays lineares e multidimensionais - vídeo)
+        - [CURSO PAGO Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html) (Arrays básicos - vídeo)
+        - [CURSO PAGO Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html) (Multidimensionais - vídeo)
+        - [CURSO PAGO Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays) (Arrays Dinâmicos - vídeo)
+        - [CURSO PAGO Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g) (Arrays Multidimensionais - vídeo)
+        - [CURSO PAGO Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html) (Arrays Multidimensionais - vídeo)
+        - [CURSO PAGO Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html) (Arrays Dinâmicos)
+    - [x] Implementar um vetor (array mutável com redimensionamento automático):
+        - [x] Praticar programação usando arrays e ponteiros, e matemática de ponteiros para pular para um índice ao invés de usar indexação.
+        - [x] novo array de dados brutos com memória alocada
             - pode alocar array de números inteiros por de baixo dos panos, só não pode usar seus recursos
             - começa com 16, ou se o número inicial for maior, usar potência de 2 - 16, 32, 64, 128
-        - [ ] size() - número de itens
-        - [ ] capacity() - número de itens que pode conter
-        - [ ] is_empty()
-        - [ ] at(index) - retorna o item que está no índice fornecido, dá erro se o índice estiver fora da capacidade do array
-        - [ ] push(item)
-        - [ ] insert(índice, item) - insere "item" no "índice", muda o valor daquele índice e move os elementos excedentes para a direita
-        - [ ] prepend(item) - pode usar o insert acima no índice 0
-        - [ ] pop() - remove do final, retorna o valor
-        - [ ] delete(índice) - deleta o item no índice fornecido, deslocando todos os elementos excedentes para a esquerda
-        - [ ] remove(item) - busca pelo valor e remove o índice contendo ele (mesmo que esteja em múltiplos lugares)
-        - [ ] find(item) - busca pelo valor e retorna o primeiro índice com aquele valor, -1 se não encontrar
-        - [ ] resize(nova_capacidade) // função privada
+        - [x] size() - número de itens
+        - [x] capacity() - número de itens que pode conter
+        - [x] is_empty()
+        - [x] at(index) - retorna o item que está no índice fornecido, dá erro se o índice estiver fora da capacidade do array
+        - [x] push(item)
+        - [x] insert(índice, item) - insere "item" no "índice", muda o valor daquele índice e move os elementos excedentes para a direita
+        - [x] prepend(item) - pode usar o insert acima no índice 0
+        - [x] pop() - remove do final, retorna o valor
+        - [x] delete(índice) - deleta o item no índice fornecido, deslocando todos os elementos excedentes para a esquerda
+        - [x] remove(item) - busca pelo valor e remove o índice contendo ele (mesmo que esteja em múltiplos lugares)
+        - [x] find(item) - busca pelo valor e retorna o primeiro índice com aquele valor, -1 se não encontrar
+        - [x] resize(nova_capacidade) // função privada
             - quando você atinge o limite da capacidade, redimensone para dobrar a capacidade
             - quando estiver usando pop() em um item, se o tamanho for 1/4 da capacidade, redimensionar para a metade da capacidade
-    - [ ] Tempo
+    - [x] Tempo
         - O(1) para adicionar/remover no final (amortizado para alocações para mais espaço), índice ou atualização
         - O(n) para inserir/remover em algum outro lugar
-    - [ ] Espaço
+    - [x] Espaço
         - contíguo na memória, então proximidade ajuda no desempenho
         - espaço necessário = (capacidade do array, a qual é >= n) * tamanho do item, mas mesmo que seja 2n, ainda será O(n)
 
 - ### Listas Ligadas
     - [ ] Descrição:
-        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists) (listas ligadas individualmente - vídeo)
-        - [ ] [CS 61B - Linked Lists 1 (video)](https://www.youtube.com/watch?v=htzJdKoEmO0&list=PL4BBB74C7D2A1049C&index=7) (CS 61B - Listas Ligadas 1 - vídeo)
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://www.youtube.com/watch?v=-c4I3gFYe3w&index=8&list=PL4BBB74C7D2A1049C) (CS 61B - Listas Ligadas 2 - vídeo)
-    - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo) (Código em C - vídeo)
+        - [x] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists) (listas ligadas individualmente - vídeo)
+        - [x ] [CS 61B - Linked Lists 1 (video)](https://www.youtube.com/watch?v=htzJdKoEmO0&list=PL4BBB74C7D2A1049C&index=7) (CS 61B - Listas Ligadas 1 - vídeo)
+        - [ x] [CS 61B - Linked Lists 2 (video)](https://www.youtube.com/watch?v=-c4I3gFYe3w&index=8&list=PL4BBB74C7D2A1049C) (CS 61B - Listas Ligadas 2 - vídeo)
+    - [x ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo) (Código em C - vídeo)
             - não o vídeo inteiro, apenas as partes sobre estrutura de nodes (nós) e alocação de memória.
-    - [ ] Listas Ligadas vs Arrays:
+    - [x ] Listas Ligadas vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays) (Fundamentos de Listas Ligadas vs Arrays - vídeo)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays) (No Mundo Real: Listas Ligadas vs Arrays - vídeo)
-    - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo) (por que você deve evitar listas ligadas - vídeo)
-    - [ ] Peguei vocês: você precisa de conhecimento de ponteiro para ponteiro:
+    - [x ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo) (por que você deve evitar listas ligadas - vídeo)
+    - [x ] Peguei vocês: você precisa de conhecimento de ponteiro para ponteiro:
         (para quando você passar um ponteiro para uma funcção que poderá mudar o endereço para o qual o ponteiro aponta)
         Essa página é só para ter uma noção sobre ponteiro para ponteiro. Eu não recomendo o estilo transversal dessa lista. Legibilidade e manutenção sofrem devido à engenhosidade.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html) (Ponteiros para Ponteiros)
