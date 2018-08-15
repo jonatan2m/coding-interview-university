@@ -584,34 +584,34 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         (para quando você passar um ponteiro para uma funcção que poderá mudar o endereço para o qual o ponteiro aponta)
         Essa página é só para ter uma noção sobre ponteiro para ponteiro. Eu não recomendo o estilo transversal dessa lista. Legibilidade e manutenção sofrem devido à engenhosidade.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html) (Ponteiros para Ponteiros)
-    - [ ] implementar (eu fiz com e sem ponteiro de cauda, ponteiro que aponta para o último node (nó) da lista):
-        - [ ] size() - retorna o número de elementos de dados na lista
-        - [ ] empty() - boleano retorna verdadeiro se estiver vazio
-        - [ ] value_at(índice) - retorna o valor do item n (começando no 0 para o primeiro)
-        - [ ] push_front(valor) - adiciona um item no início da lista, logo antes do seu atual primeiro elemento
-        - [ ] pop_front() - remove o item do início da lista e retorna o seu valor
-        - [ ] push_back(valor) - adiciona um item no final da lista
-        - [ ] pop_back() - remove um item do final e retorna seu valor
-        - [ ] front() - obtém valor do item que está no início da lista
-        - [ ] back() - obtém valor do item que está no final da lista
-        - [ ] insert(índice, valor) - insere "valor" no "índice", e depois o item atual naquele índice é apontado pelo novo item no "índice"
-        - [ ] erase(índice) - remove o node (nó) no índice fornecido
-        - [ ] value_n_from_end(n) - retorna o valor do node (nó) na posição n a partir do final da lista
-        - [ ] reverse() - reverte a lista
-        - [ ] remove_value(valor) - remove o primeiro item na lista com esse valor
-    - [ ] Listas Ligadas Duplamente
+    - [x] implementar (eu fiz com e sem ponteiro de cauda, ponteiro que aponta para o último node (nó) da lista):
+        - [x] size() - retorna o número de elementos de dados na lista
+        - [x] empty() - boleano retorna verdadeiro se estiver vazio
+        - [x] value_at(índice) - retorna o valor do item n (começando no 0 para o primeiro)
+        - [x] push_front(valor) - adiciona um item no início da lista, logo antes do seu atual primeiro elemento
+        - [x] pop_front() - remove o item do início da lista e retorna o seu valor
+        - [x] push_back(valor) - adiciona um item no final da lista
+        - [x] pop_back() - remove um item do final e retorna seu valor
+        - [x] front() - obtém valor do item que está no início da lista
+        - [x] back() - obtém valor do item que está no final da lista
+        - [x] insert(índice, valor) - insere "valor" no "índice", e depois o item atual naquele índice é apontado pelo novo item no "índice"
+        - [x] erase(índice) - remove o node (nó) no índice fornecido
+        - [x] value_n_from_end(n) - retorna o valor do node (nó) na posição n a partir do final da lista
+        - [x] reverse() - reverte a lista
+        - [x] remove_value(valor) - remove o primeiro item na lista com esse valor
+    - [x] Listas Ligadas Duplamente
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists) (Descrição - vídeo)
         - Não há necessidade de implementar
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html) (Usando Stacks Último a Entrar Primeiro a Sair - vídeo)
-    - [ ] Não implementarei. Implementar com array é trivial.
+    - [x] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [x] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html) (Usando Stacks Último a Entrar Primeiro a Sair - vídeo)
+    - [x] Não implementarei. Implementar com array é trivial.
 
 - ### Queue (Fila)
-    - [ ] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html) (Usando queues FIFO(Primeiro a entrar, último a sair) - vídeo)
-    - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer) (Buffer circular/Primeiro a entrar, último a sair)
+    - [x] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html) (Usando queues FIFO(Primeiro a entrar, último a sair) - vídeo)
+    - [x] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [x] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer) (Buffer circular/Primeiro a entrar, último a sair)
     - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html) (Queues com Prioridade - vídeo)
     - [ ] Implementar usando lista ligada, com ponteiro de cauda (aponta para o último elemento de uma lista):
         - enqueue(valor) - adiciona "valor" na posição na cauda (final da lista)
