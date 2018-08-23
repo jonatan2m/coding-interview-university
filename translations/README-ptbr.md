@@ -612,17 +612,17 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [x] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html) (Usando queues FIFO(Primeiro a entrar, último a sair) - vídeo)
     - [x] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [x] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer) (Buffer circular/Primeiro a entrar, último a sair)
-    - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html) (Queues com Prioridade - vídeo)
-    - [ ] Implementar usando lista ligada, com ponteiro de cauda (aponta para o último elemento de uma lista):
+    - [x] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html) (Queues com Prioridade - vídeo)
+    - [x] Implementar usando lista ligada, com ponteiro de cauda (aponta para o último elemento de uma lista):
         - enqueue(valor) - adiciona "valor" na posição na cauda (final da lista)
         - dequeue() - retorna um valor e remove o elemento menos recentemente adicionado (início da lista))
         - empty()
-    - [ ] Implementar usando arrays de tamanho-fixo:
+    - [x] Implementar usando arrays de tamanho-fixo:
         - enqueue(valor) - adiciona um item no final do armazenamento disponível
         - dequeue() - retorna um valor e remove um elemento menos recentemente adicionado 
         - empty()
         - full()
-    - [ ] Custo:
+    - [x] Custo:
         - uma implementação ruim usando lista ligada na qual você coloca na fila (enqueue) no head (cabeça/início da lista) e tira da fila (dequeue) no tail (cauda/final da lista) seria O(n)
             porque você precisaria do penúltimo elemento, causando uma transversal completa a cada dequeue 
         - enqueue: O(1) (amortizado, lista ligada e array [sondagem])
